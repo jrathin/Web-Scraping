@@ -3,7 +3,6 @@ from apscheduler.triggers.cron import CronTrigger
 from datetime import datetime
 from currentData import start
 from injury import injuryScrap
-from test import prin
 
 def scrap():
     start()
