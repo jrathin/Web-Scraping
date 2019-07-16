@@ -45,5 +45,3 @@ def start():
         #print('Enter')
         return
     #print(li)
-    #print('jagan')
-    #print(len(li))
